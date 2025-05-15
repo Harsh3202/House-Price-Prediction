@@ -20,3 +20,15 @@ Ensure you have Python 3.7+ installed.
    ```bash
    git clone https://github.com/your-username/house-price-prediction.git
    cd house-price-prediction
+   ```
+
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the notebook:
+   ```bash
+   jupyter notebook House_Price_Prediciton.ipynb
+   ```
+
